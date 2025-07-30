@@ -21,7 +21,6 @@ Iâ€™ve grown through the business from retail sales to engineering leadership â€
 - **Platforms**: Salesforce Commerce Cloud (SFRA), Shopify, WordPress
 - **Testing & Analytics**: Dynamic Yield, Google Tag Manager, GA4
 - **Project Delivery**: Agile, Jira, Git, WCAG Accessibility, Lighthouse
-- **Learning**: Currently upskilling in Go (Golang) and backend development
 
 ---
 
